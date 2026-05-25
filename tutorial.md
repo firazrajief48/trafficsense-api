@@ -10,6 +10,8 @@ Running API : uvicorn main:app --reload
 http://127.0.0.1:8000/docs : UI Trafficsense API (Post > Try It Out > Upload Gambar/Video > Execute)
 http://127.0.0.1:8000 : Cek API Aktif/Tidak Aktif
 
+Jangan Lupa Isi API Gemini di main.py, Ambil di Google Studio!
+
 VENV Wajib Nyala Kalau Mau Start API!
 
 Kalau Tensorflow Garis Kuning Bawah Edit File (.vscode/settings.json)

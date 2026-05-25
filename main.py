@@ -15,7 +15,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-GEMINI_API_KEY = "AIzaSyCWkeg4OYh8wpKlxkfPCPpYn-SWV5JjV_w"
+GEMINI_API_KEY = "GANTI SENDIRI PAKE KODEMU SENDIRI"
 
 @app.get("/")
 def read_root():
