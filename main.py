@@ -15,7 +15,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-GEMINI_API_KEY = "GANTI SENDIRI PAKE KODEMU SENDIRI"
+GEMINI_API_KEY = "GANTI PAKE KODE API PUNYAMU SENDIRI"
 
 @app.get("/")
 def read_root():
